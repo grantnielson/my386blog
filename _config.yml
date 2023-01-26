@@ -18,27 +18,31 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blog Title # Make a title for your blog
-email: author_email@email.com # Add your email 
+title: Grant's Moneyball Moments
+email: gniel137@gmail.com # Add your email 
 description: >- # this means to ignore newlines until "baseurl:"
- Change the description so that it describes your blog
+In Grant's Moneyball Moments, I share with you, kind reader, my
+insights on the sports analytics world - what is the "advanced 
+data telling us? Does it actually matter? How does this affect my favorite team?" 
+and other vizualisations, models, and insights that might just lead you to have your own "Moneyball Moments."
+
 baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
-url: "https://esnt.github.io" #  change this to "https://<your-github-username>.github.io"
+url: "https://grantnielson.github.io" #  change this to "https://<your-github-username>.github.io"
 image: /assets/images/image5.jpg
-author: Your name
-copyright: ABCD # Your initials or what you want the copyright to be.  Leave empty for no copyright
+author: Grant Nielson
+copyright: MGN # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
 # Social media users names.  Leave fields blank that you don't want displayed
-twitter_username: 386student
-github_username:  386student
-linkedin_username: 386student
+twitter_username: GrantNielson2
+github_username:  grantnielson
+linkedin: www.linkedin.com/in/grant-nielson-856437212
 dribbble_username: 
-facebook_username: 386student
+facebook_username: 
 flickr_username:
 instagram_username: 
 pinterest_username:
 youtube_username: 
-googleplus_username: 386student
+googleplus_username:
 
 
 # Build settings
