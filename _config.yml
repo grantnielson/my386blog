@@ -18,13 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Grant's Moneyball Moments
+title: "Grant's Moneyball Moments"
 email: gniel137@gmail.com # Add your email 
 description: >- # this means to ignore newlines until "baseurl:"
-"In Grant's Moneyball Moments, I share with you, kind reader, my
-insights on the sports analytics world - what is the advanced 
-data telling us? Does it actually matter? How does this affect my favorite team? 
-and other vizualisations, models, and insights that might just lead you to have your own 'Moneyball Moments.'"
+"In Grant's Moneyball Moments, I share with you, kind reader, my insights on the sports analytics world - what is the advanced data telling us? Does it actually matter? How does this affect my favorite team? and other vizualisations, models, and insights that might just lead you to have your own 'Moneyball Moments.'"
 
 baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
 url: "https://grantnielson.github.io" #  change this to "https://<your-github-username>.github.io"
