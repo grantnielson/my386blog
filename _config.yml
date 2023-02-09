@@ -20,7 +20,7 @@
 
 title: Moneyball Moments
 email: gniel137@gmail.com # Add your email 
-description: " In Moneyball Moments, I share with you, kind reader, my insights on the sports analytics world - what is the advanced data telling us? Does it actually matter? How does this affect my favorite team? and other vizualisations, models, and insights that might just lead you to have your own Moneyball Moments. "
+description: " In Moneyball Moments, I share with you my insights on the sports analytics world - what is the advanced data telling us? Does it actually matter? How does this affect my favorite team? and other vizualisations, models, and insights that might just lead you to have your own Moneyball Moments. "
 
 baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
 url: "https://grantnielson.github.io" #  change this to "https://<your-github-username>.github.io"
