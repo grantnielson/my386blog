@@ -3,7 +3,7 @@ layout: post
 title:  "Pilot"
 author: Grant Nielson
 description: First time? Here's what to expect from Moneyball Moments
-image: #/Users/grantnielson/documents/386/blog/my386blog/assets/images/opening_day.jpeg
+image: /Users/grantnielson/documents/386/blog/my386blog/assets/images/opening_day.jpeg
 ---
 
 
