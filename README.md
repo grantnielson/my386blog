@@ -4,4 +4,4 @@ I'm most proud of the data vizualisations I came up with, both the content and e
 
 Here's the link to the blog https://grantnielson.github.io/my386blog/
 
-Meat and Potatoes are found
+The meat and potatoes for the python scripts used are actually found in this repo https://github.com/grantnielson/blog-3-real.
