@@ -1,6 +1,7 @@
-# Stat386 Projects Blog
+This is a collection of code used to make my personal blog, "Moneyball Moments." I love the movie and concept of Moneyball (using stats to acheive better outcomes in sports or business), so you'll see that my blog is mainly about sports. 
 
-This the repo for the Stat386 blog projects.
+I'm most proud of the data vizualisations I came up with, both the content and execution of what I found to be somewhat difficult features (graph annotations, recoloring and resizing points in scatterplots, etc). 
 
+Here's the link to the blog https://grantnielson.github.io/my386blog/
 
-This repository is cloned from [github.com/esnt/stat386-projects](https://github.com/esnt/stat386-projects) which was originally built by following [these excellent youtube tutorials](https://www.youtube.com/playlist?list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq) by Bill Raymond.
+Meat and Potatoes are found
